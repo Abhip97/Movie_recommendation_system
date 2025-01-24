@@ -23,6 +23,9 @@ movie-recommendation-system/
 - Python 3.8 or later
 - TMDb API key (create an account at [TMDb](https://www.themoviedb.org/) to get an API key)
 
+## dataset
+https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata
+
 ## Installation
 1. Clone the repository:
    ```bash
